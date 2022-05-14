@@ -1,22 +1,12 @@
 {
-  "name": "wapfi_smart_contracts",
-  "version": "0.0.1",
-  "description": "Smart Contratcs for wet ass personal finance tools",
-  "main": "WAPFI TESTUDO SXILENTE",
+  "name": "smart_contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "test for leakage"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Al-Jarah/Wapfi-smart-contract-intergration.git"
-  },
-  "keywords": [
-    "wapfi"
-  ],
-  "author": "Elijah Brown",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/Al-Jarah/Wapfi-smart-contract-intergration/issues"
-  },
-  "homepage": "https://github.com/Al-Jarah/Wapfi-smart-contract-intergration#readme"
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
