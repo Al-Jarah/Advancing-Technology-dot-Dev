@@ -11,9 +11,9 @@ const swapParams = {
 function OneInchRate( fromTokenAddress, toTokenAddress, amount) {    
     axios.get(
         'https://api.1inch.exchange/v4.0/quote?' + 
-        'fromTokenAddress=' + `${srcToken}` + 
+        'fromTokenAddress=' + `${fromTokenAddress}` + 
         '&' + 
-        'toTokenAddress=' + `${destToken}` + 
+        'toTokenAddress=' + `${toTokenAddress}` + 
         '&' + 
         'amount=' + `${amount}`
     )
