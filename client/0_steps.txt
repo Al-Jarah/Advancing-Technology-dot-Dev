@@ -1,0 +1,3 @@
+//get the the prices
+//check if theres a profitable oppotunity 
+//run the flash functiolet arer
